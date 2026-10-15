@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+briefs/
+calls.jsonl
+.DS_Store
